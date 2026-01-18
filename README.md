@@ -54,7 +54,7 @@ Here are a few things I like to build and share:
 ---
 
 ## ✍️ Writing & Sharing
-- **Data Fika ☕** — small data concepts for a fika break ☕️
+- **Data Fika ☕** — small data concepts for a fika break
 - Occasional posts about: Snowflake ❄️, data quality, governance, and practical data engineering ⚙️
 
 ---
