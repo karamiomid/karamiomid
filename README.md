@@ -36,9 +36,9 @@ My work focuses on **data governance, quality, and standardization**, enabling a
 
 ## 🔧 Tech Stack
 **Data Platform & Warehousing:** Snowflake, Data Lakehouse
-**Transformations:** dbt, SQL 
-**Engineering:** Python, APIs, orchestration, CI/CD
-**Governance:** data definitions, stewardship, quality monitoring
+**Transformations:** dbt, SQL  
+**Engineering:** Python, APIs, orchestration, CI/CD  
+**Governance:** data definitions, stewardship, quality monitoring, documentation standards
 
 ---
 
