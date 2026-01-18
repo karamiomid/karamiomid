@@ -4,36 +4,35 @@ Create a repo named exactly: YOUR_GITHUB_USERNAME
 Then add this as README.md
 -->
 
-<h1 align="center">YOUR_GITHUB_USERNAME</h1>
+<h1 align="center">Omid Karami</h1>
 <p align="center">
-  <b>Data Engineer • Data Architecture • Analytics Enablement</b><br/>
-  Building reliable data products, clean pipelines, and practical data governance.
+  <b>Sr. Data Engineer • ML and AI Enthusiast </b><br/>
+  Building reliable data products, clean pipelines, and working on the clinical data platform.
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="https://YOUR_WEBSITE">Website</a>
+  <a href="https://github.com/karamiomid">GitHub</a> •
+  <a href="https://www.linkedin.com/in/omidkarami/">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">karami.omid@gmail.com</a> •
+  <a href="https://omidkarami.com">Website</a>
 </p>
 
 ---
 
 ## 👋 About
-I’m **YOUR_GITHUB_USERNAME**, a data professional focused on designing and delivering dependable data platforms and data products.
-I care about **data quality**, **governance**, and **developer-friendly standards** that make analytics and ML teams faster.
+I’m **Omid**, a data professional focused on designing and delivering dependable data platforms and data products.
+I care about ** clinical data platform**, **governance** that makes analytics and ML teams faster.
 
 **Currently**
-- Working on: data pipelines, governance foundations, and reusable standards (docs + templates)
+- Working on: clinical data platform, governance foundations, and reusable standards
 - Interests: Snowflake, dbt, Azure, data quality (DMFs), data products, privacy & compliance
 
 ---
 
 ## 🔧 Tech Stack
-**Data Platform & Warehousing:** Snowflake, Azure (ADLS, ADF), Databricks  
+**Data Platform & Warehousing:** Snowflake, Azure Data Factory
 **Transformations:** dbt, SQL  
 **Engineering:** Python, APIs, orchestration, CI/CD  
-**Analytics:** Power BI, Tableau  
 **Governance:** data definitions, stewardship, quality monitoring, documentation standards
 
 ---
@@ -57,14 +56,14 @@ Here are a few things I like to build and share:
 
 ## 🤝 Collaboration
 If you’re working on:
-- improving data quality and trust,
+- improving data quality and trust in the clinical data platform,
 - standardizing data products and definitions,
 - or building efficient Snowflake/Azure pipelines,
 
-feel free to connect.
+Feel free to connect.
 
 ---
 
 <p align="center">
-  <sub>© YOUR_GITHUB_USERNAME • Built with ❤️ and clean SQL</sub>
+  <sub>© Omid Karami • Built with ❤️ and clean SQL</sub>
 </p>
