@@ -61,9 +61,9 @@ Here are a few things I like to build and share:
 
 ## 🤝 Collaboration
 If you’re working on:
-- improving data quality and trust in the clinical data platform,
-- standardizing data products and definitions,
-- or building efficient Snowflake/Azure pipelines,
+- improving data quality and trust in the clinical data platform
+- standardizing data products and definitions
+- building efficient data pipelines
 
 Feel free to connect.
 
