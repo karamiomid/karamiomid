@@ -28,7 +28,7 @@ My work focuses on **data governance, quality, and standardization**, enabling a
 - Building **high-quality, analytics-ready data products**
 
 **Interests & Focus Areas**
-- Snowflake ❄️, dbt, Azure
+- Snowflake ❄️, dbt, and Microsoft Azure
 - Data quality ✅
 - Data products, privacy, and regulatory compliance 🔐
 
