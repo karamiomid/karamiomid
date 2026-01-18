@@ -49,8 +49,6 @@ Here are a few things I like to build and share:
 - **Reusable ELT Templates** — consistent folder structure, naming, and documentation  
 - **Data Product Foundations** — definitions, ownership, and clear contracts for consumers  
 
-➡️ Pinned repositories below highlight the best examples.
-
 ---
 
 ## ✍️ Writing & Sharing
