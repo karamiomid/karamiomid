@@ -29,7 +29,7 @@ My work focuses on **data governance, quality, and standardization**, enabling a
 
 **Interests & Focus Areas**
 - Snowflake ❄️, dbt, Azure
-- Data quality & observability (DMFs) ✅
+- Data quality ✅
 - Data products, privacy, and regulatory compliance 🔐
 
 ---
