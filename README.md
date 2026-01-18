@@ -19,8 +19,8 @@ Then add this as README.md
 ---
 
 ## 👋 About
-I’m **Omid**, a data professional focused on designing and delivering dependable data platforms and data products.
-I care about ** clinical data platform **, **governance** that makes analytics and ML teams faster.
+I’m **Omid**, who is working as a data professional focused on designing and delivering dependable data platforms and data products.
+I care about **clinical data platform**, **governance** that makes analytics and ML teams faster.
 
 **Currently**
 - Working on: clinical data platform, governance foundations, and reusable standards
