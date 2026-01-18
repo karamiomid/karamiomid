@@ -7,13 +7,13 @@ Then add this as README.md
 <h1 align="center">Omid Karami</h1>
 <p align="center">
   <b>🧠 Sr. Data Engineer • 🤖 ML & AI Enthusiast</b><br/>
-  🚀 Building reliable data products, clean pipelines and working on clinical data platforms 🏥
+  🚀 Building reliable data products | Clinical data platforms 🏥
 </p>
 
 <p align="center">
   <a href="https://github.com/karamiomid">GitHub</a> •
-  <a href="https://www.linkedin.com/in/omidkarami/">🔷 LinkedIn</a> •
-  <a href="https://omidkarami.com">🌐 Website</a>
+  🔷 <a href="https://www.linkedin.com/in/omidkarami/">LinkedIn</a> •
+  🌐<a href="https://omidkarami.com">Website</a>
 </p>
 
 ---
