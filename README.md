@@ -19,12 +19,18 @@ Then add this as README.md
 ---
 
 ## 👋 About
-I’m **Omid**, who is working as a data engineer focused on designing a dependable clinical data platform and delivering data products.
-I care about **clinical data platform**, **governance** that makes analytics and ML teams faster 📊🤖
+I’m **Omid**, who is working as a data engineer specializing in the design and delivery of **reliable clinical data platform** and **scalable data products**.
+My work focuses on **data governance, quality, and standardization**, enabling analytics and ML teams to move faster with confidence 📊🤖.
 
-**Currently**
-- Working on: clinical data platform, governance foundations, and reusable standards
-- Interests: Snowflake ❄️, dbt, Azure, data quality (DMFs), data products, privacy & compliance
+## 🚧 Currently
+- 🏥 Designing and evolving a **clinical data platform**
+- 🧩 Establishing **data governance foundations** and reusable engineering standards
+- 📦 Building **high-quality, analytics-ready data products**
+
+## 🎯 Interests & Focus Areas
+- ❄️ Snowflake, dbt, Azure
+- ✅ Data quality & observability (DMFs)
+- 🔐 Data products, privacy, and regulatory compliance
 
 ---
 
