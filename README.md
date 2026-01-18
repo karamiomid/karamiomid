@@ -7,7 +7,7 @@ Then add this as README.md
 <h1 align="center">Omid Karami</h1>
 <p align="center">
   <b> Sr. Data Engineer • ML & AI Enthusiast</b><br/>
-  🚀 Building reliable data products | Clinical data platforms 🏥
+  🚀 Building reliable data products | Clinical data platform 🏥
 </p>
 
 <p align="center">
@@ -19,12 +19,12 @@ Then add this as README.md
 ---
 
 ## 👋 About
-I’m **Omid**, who is working as a data professional focused on designing and delivering dependable data platforms and data products.
-I care about **clinical data platform**, **governance** that makes analytics and ML teams faster.
+I’m **Omid**, who is working as a data engineer focused on designing a dependable clinical data platform and delivering data products.
+I care about **clinical data platform**, **governance** that makes analytics and ML teams faster 📊🤖
 
 **Currently**
 - Working on: clinical data platform, governance foundations, and reusable standards
-- Interests: Snowflake, dbt, Azure, data quality (DMFs), data products, privacy & compliance
+- Interests: Snowflake ❄️, dbt, Azure, data quality (DMFs), data products, privacy & compliance
 
 ---
 
@@ -48,8 +48,8 @@ Here are a few things I like to build and share:
 ---
 
 ## ✍️ Writing & Sharing
-- **Data Fika ☕** — small data concepts for a fika break
-- Occasional posts about: Snowflake, data quality, governance, and practical data engineering
+- **Data Fika ☕** — small data concepts for a fika break ☕️
+- Occasional posts about: Snowflake ❄️, data quality, governance, and practical data engineering ⚙️
 
 ---
 
