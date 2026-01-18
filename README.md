@@ -35,9 +35,10 @@ My work focuses on **data governance, quality, and standardization**, enabling a
 ---
 
 ## 🔧 Tech Stack
-**Data Platform & Warehousing:** Snowflake, Azure Data Factory
+**Data Platform & Warehousing:** Snowflake, Azure (ADLS, ADF), Databricks  
 **Transformations:** dbt, SQL  
 **Engineering:** Python, APIs, orchestration, CI/CD  
+**Analytics:** Power BI, Tableau  
 **Governance:** data definitions, stewardship, quality monitoring, documentation standards
 
 ---
