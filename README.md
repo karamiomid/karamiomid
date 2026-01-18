@@ -6,7 +6,7 @@ Then add this as README.md
 
 <h1 align="center">Omid Karami</h1>
 <p align="center">
-  <b> Sr. Data Engineer • ML & AI Enthusiast</b><br/>
+  <b> Sr. Data Engineer | ML & AI Enthusiast | MSc. Data Science and Intelligent Automation</b><br/>
   🚀 Building reliable data products | Clinical data platform 🏥
 </p>
 
